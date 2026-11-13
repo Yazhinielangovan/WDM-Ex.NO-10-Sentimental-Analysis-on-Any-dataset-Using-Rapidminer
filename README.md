@@ -1,5 +1,6 @@
 # WDM-Ex.NO-10-Sentimental-Analysis-on-Any-dataset-Using-Rapidminer
-**DATE:**<br>
+## Name : Yazhini E 
+## Reg.no.: 2305002028
 **AIM:**<br>
 To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer<br>
 **Description:**<br>
@@ -45,8 +46,9 @@ e. Click on the "Run" button to export the sentiment analysis results to a new E
 
 **Output:**<br>
 
-<img width="1033" height="580" alt="image" src="https://github.com/user-attachments/assets/a551c8a2-f265-4dd8-b61d-d8c6a2020475" />
+<img width="586" height="756" alt="image" src="https://github.com/user-attachments/assets/2bd047ee-a181-4bdf-aa9b-024600525d4b" />
 
 
 
 **Result:**
+Sentimental Analysis on Twitter Dataset Using Rapidminer is implemented.
